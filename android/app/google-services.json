@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "167639781305",
+    "firebase_url": "https://schoolproject-702fe.firebaseio.com",
+    "project_id": "schoolproject-702fe",
+    "storage_bucket": "schoolproject-702fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167639781305:android:0810abea82564c9d56b068",
+        "android_client_info": {
+          "package_name": "com.example.flutterlogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167639781305-dov1mgvsji79ltv62s80fvfmv1sqag7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd13kHIoZgFvhi4gP7oO0PiFQuTns7z_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167639781305-dov1mgvsji79ltv62s80fvfmv1sqag7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167639781305:android:a466e41bfc65a03356b068",
+        "android_client_info": {
+          "package_name": "com.example.zimwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167639781305-dov1mgvsji79ltv62s80fvfmv1sqag7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd13kHIoZgFvhi4gP7oO0PiFQuTns7z_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167639781305-dov1mgvsji79ltv62s80fvfmv1sqag7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
